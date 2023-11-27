@@ -1,2 +1,2 @@
 "use strict";
-console.log("script.js file was loaded");
+console.log("pr1.js file was loaded");
